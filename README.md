@@ -1,6 +1,10 @@
 # TikTok ad for make.fun
 
-Entry for make.fun's **bring-the-humans-03** bounty: an original short
+[![make.fun · bring-the-humans-03](https://make.fun/badge/bring-the-humans-03.svg)](https://make.fun/bounty/bring-the-humans-03?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-03)
+[![rank](https://make.fun/badge/bring-the-humans-03/unot58/makefun-bring-the-humans-03/rank.svg)](https://make.fun/bounty/bring-the-humans-03/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-03)
+[![reward](https://make.fun/badge/bring-the-humans-03/unot58/makefun-bring-the-humans-03/reward.svg)](https://make.fun/bounty/bring-the-humans-03?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-03)
+
+Entry for make.fun's **[bring-the-humans-03](https://make.fun/bounty/bring-the-humans-03)** bounty: an original short
 vertical video ad for make.fun, posted publicly on TikTok from
 [@aitales.id](https://www.tiktok.com/@aitales.id).
 
